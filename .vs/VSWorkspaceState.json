@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\styles"
   ],
-  "SelectedNode": "\\index.js",
+  "SelectedNode": "\\client\\src\\styles\\variables.js",
   "PreviewInSolutionExplorer": false
 }
