@@ -50,11 +50,14 @@
 
     ```shell
     git push heroku main
-    ```
+   ```
+## Login 
 ![Login Page](https://github.com/ragaveepk/spotify-connect_react/blob/main/client/public/Screenshot%20(81).png)
 
+## Profile 
 ![Profile Page](https://github.com/ragaveepk/spotify-connect_react/blob/main/client/public/Screenshot%20(82).png)
 
+## Top Artists
 ![Top Artists Page](https://github.com/ragaveepk/spotify-connect_react/blob/main/client/public/Screenshot%20(83).png)
 
 
