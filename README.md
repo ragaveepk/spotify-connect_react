@@ -51,4 +51,5 @@
     ```shell
     git push heroku main
     ```
-![Picture](/client/public/Screenshot (79).png)
+![Picture](https://user-images.githubusercontent.com/80839723/152219641-e3ba73df-318a-468a-bf5d-86c8153be180.png)
+
