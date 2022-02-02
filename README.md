@@ -1,4 +1,4 @@
-# Spotify Connected App -
+# Spotify Connected App
  [DEMO](https://spotify-profile-connect.herokuapp.com/)
  
  ## Login 
