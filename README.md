@@ -51,4 +51,4 @@
     ```shell
     git push heroku main
     ```
-![Picture](/client/public/Screenshot(79).png)
+![Picture](/client/public/Screenshot (79).png)
