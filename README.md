@@ -51,5 +51,5 @@
     ```shell
     git push heroku main
     ```
-![Picture](https://user-images.githubusercontent.com/80839723/152219641-e3ba73df-318a-468a-bf5d-86c8153be180.png)
+![Picture](https://github.com/ragaveepk/spotify-connect_react/blob/main/client/public/Screenshot%20(79).png)
 
