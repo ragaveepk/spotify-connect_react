@@ -1,5 +1,17 @@
 # Spotify Connected App -
- [Live Link](https://spotify-profile-connect.herokuapp.com/)
+ [DEMO](https://spotify-profile-connect.herokuapp.com/)
+ 
+ ## Login 
+![Login Page](https://github.com/ragaveepk/spotify-connect_react/blob/main/client/public/Screenshot%20(81).png)
+
+## Profile 
+![Profile Page](https://github.com/ragaveepk/spotify-connect_react/blob/main/client/public/Screenshot%20(82).png)
+
+## Top Artists
+![Top Artists Page](https://github.com/ragaveepk/spotify-connect_react/blob/main/client/public/Screenshot%20(83).png)
+
+
+
 ## Local Installation & Set Up
 
 1. Register a Spotify App in your [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/) and add `http://localhost:8888/callback` as a Redirect URI in the app settings
@@ -51,13 +63,3 @@
     ```shell
     git push heroku main
    ```
-## Login 
-![Login Page](https://github.com/ragaveepk/spotify-connect_react/blob/main/client/public/Screenshot%20(81).png)
-
-## Profile 
-![Profile Page](https://github.com/ragaveepk/spotify-connect_react/blob/main/client/public/Screenshot%20(82).png)
-
-## Top Artists
-![Top Artists Page](https://github.com/ragaveepk/spotify-connect_react/blob/main/client/public/Screenshot%20(83).png)
-
-
