@@ -20,7 +20,7 @@
 
 3. Ensure [nvm](https://github.com/nvm-sh/nvm) and [npm](https://www.npmjs.com/) are installed globally
 
-4. Install the correct version of Node
+4. Install Node
 
     ```shell
     nvm install
